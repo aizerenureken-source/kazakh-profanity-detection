@@ -1,0 +1,1 @@
+# kazakh-profanity-detection
